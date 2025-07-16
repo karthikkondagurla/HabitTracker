@@ -102,12 +102,13 @@ A cross-platform mobile app to help you build and maintain positive habits, trac
 ## Screenshots
 
 
-
-<img width="1080" height="2400" alt="Screenshot_20250716-144718 Expo Go" src="https://github.com/user-attachments/assets/b96e3591-504e-44ee-9e9a-82b7790786af" />
-<img width="1080" height="2400" alt="Screenshot_20250716-144711 Expo Go" src="https://github.com/user-attachments/assets/c014bf0d-7e0c-4ede-8dd6-64ccccff8930" />
-<img width="1080" height="2400" alt="Screenshot_20250716-144704 Expo Go" src="https://github.com/user-attachments/assets/0d49bd19-85ef-4dcd-9fd1-0003a6369010" />
-<img width="1080" height="2400" alt="Screenshot_20250716-194117 Expo Go" src="https://github.com/user-attachments/assets/3e4de4dc-f95b-460c-93d1-a48a8767ffe5" />
-
-
 https://github.com/user-attachments/assets/3a97504e-e1bf-4656-8719-948364fa5d4b
+
+
+<img width="300" height="200" alt="Screenshot_20250716-144718 Expo Go" src="https://github.com/user-attachments/assets/b96e3591-504e-44ee-9e9a-82b7790786af" />
+<img width="300" height="200" alt="Screenshot_20250716-144711 Expo Go" src="https://github.com/user-attachments/assets/c014bf0d-7e0c-4ede-8dd6-64ccccff8930" />
+<img width="300" height="200" alt="Screenshot_20250716-144704 Expo Go" src="https://github.com/user-attachments/assets/0d49bd19-85ef-4dcd-9fd1-0003a6369010" />
+<img width="300" height="200" alt="Screenshot_20250716-194117 Expo Go" src="https://github.com/user-attachments/assets/3e4de4dc-f95b-460c-93d1-a48a8767ffe5" />
+
+
 
